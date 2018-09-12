@@ -2,11 +2,11 @@ istanbul-combine
 ================
 Combine coverage reports from multiple runs in to a single coverage report.
 
-[![Build Status](https://travis-ci.org/jamestalmage/istanbul-combine.svg?branch=master)](https://travis-ci.org/jamestalmage/istanbul-combine)
+[![Build Status](https://travis-ci.org/calcyfer/istanbul-combine.svg?branch=master)](https://travis-ci.org/calcyfer/istanbul-combine)
 
-[![peerDependency Status](https://david-dm.org/jamestalmage/istanbul-combine/peer-status.svg)](https://david-dm.org/jamestalmage/istanbul-combine#info=peerDependencies)
-[![Dependency Status](https://david-dm.org/jamestalmage/istanbul-combine.svg)](https://david-dm.org/jamestalmage/istanbul-combine)
-[![devDependency Status](https://david-dm.org/jamestalmage/istanbul-combine/dev-status.svg)](https://david-dm.org/jamestalmage/istanbul-combine#info=devDependencies)
+[![peerDependency Status](https://david-dm.org/calcyfer/istanbul-combine/peer-status.svg)](https://david-dm.org/calcyfer/istanbul-combine#info=peerDependencies)
+[![Dependency Status](https://david-dm.org/calcyfer/istanbul-combine.svg)](https://david-dm.org/calcyfer/istanbul-combine)
+[![devDependency Status](https://david-dm.org/calcyfer/istanbul-combine/dev-status.svg)](https://david-dm.org/calcyfer/istanbul-combine#info=devDependencies)
 
 ```javascript
 var combine = require('istanbul-combine');

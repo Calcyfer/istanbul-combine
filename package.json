@@ -1,6 +1,6 @@
 {
   "name": "istanbul-combine",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "easily merge coverage data from multiple istanbul runs",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamestalmage/istanbul-combine.git"
+    "url": "https://github.com/calcyfer/istanbul-combine.git"
   },
   "keywords": [
     "istanbul",
@@ -18,20 +18,20 @@
     "coverage",
     "report"
   ],
-  "author": "James Talmage <james@talmage.io>",
+  "author": "Calcyfer <glenn@calcyfer.be>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jamestalmage/istanbul-combine/issues"
+    "url": "https://github.com/calcyfer/istanbul-combine/issues"
   },
-  "homepage": "https://github.com/jamestalmage/istanbul-combine",
+  "homepage": "https://github.com/calcyfer/istanbul-combine",
   "bin": "./cli.js",
   "dependencies": {
-    "glob": "^5.0.3",
-    "minimist": "^1.1.1",
-    "q": "^1.2.0",
-    "istanbul": "0.3.x"
+    "glob": "^7.1.3",
+    "istanbul": "^0.4.5",
+    "minimist": "^1.2.0",
+    "q": "^1.5.1"
   },
   "devDependencies": {
-    "mocha": "^2.2.4"
+    "mocha": "^5.2.0"
   }
 }
